@@ -1,19 +1,21 @@
-# Mi Proyecto
+# My Project
 TelegramBotProjectv2
 
-## Descripción
-A simple to use library to create Telegram Bots in Java
+## Description
+A simple-to-use library to create Telegram bots in Java.
 
-## Instalación
-Para instalar este proyecto, sigue estos pasos:
-1. Clona el repositorio: `git remote set-url origin https://github.com/ShadiDB09/TelegramBotProjectv2.git´
-2. Instala las dependencias: `npm install`
+## Installation
+To install this project, follow these steps:
+1. Clone the repository: `git clone https://github.com/ShadiDB09/TelegramBotProjectv2.git`
+2. Install dependencies: `npm install`
 
-## Uso
-Para usar este proyecto, ejecuta:
-
-## [Telegram Bot API]([https://core.telegram.org/bots])
-This library uses the Telegram Bot API; you can find more information following the link.
+## Usage
+To use this project, follow these steps:
+1. Download IntelliJ IDEA.
+2. Use JDK v17.
+   
+## Telegram Bot API
+This library use [Telegram bot API](https://core.telegram.org/bots), you can find more information following the link.
 
 ## Powered by Intellij and DigitalOcean
 <p align="center">
